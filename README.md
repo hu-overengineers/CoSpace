@@ -17,26 +17,9 @@ After your task is done, you need to create a pull request. Note that you need t
 And remember, the internet is your friend, consult internet whenever you stuck, as well as your teammates.
 
 ## Authors
- 
--  [M. Şamil Ateşoğlu](https://github.com/shamilatesoglu) (SWE & Project Manager)<br>
-<img src="https://avatars.githubusercontent.com/u/16795283?s=400&u=4dbb99bbe652bc560fe113d400118373cc27980a&v=4" width="200">
 
 
--  [Mert Can Demir](https://github.com/validatedev) (SWE & Software Architect)<br>
-<img src="https://avatars.githubusercontent.com/u/29679552?s=400&u=842d738be93cf0f725bd0b27d4dc4687930e41b4&v=4" width="200">
-
-
--  [Yusuf Keten](https://github.com/yusufketen) (SWE & Software Analyst)<br>
-<img src="https://avatars.githubusercontent.com/u/26020675?s=400&u=21d660029292a2e2fb653a40e142b646670038a1&v=4" width="200">
-
-
--  [Selim Şeker](https://github.com/selimseker) (SWE & Software Configuration Manager)<br>
-<img src="https://avatars.githubusercontent.com/u/44788355?s=400&u=3c8a1a0c10768db805f85957365d4e1ed6aa01cd&v=4" width="200">
-
-
--  [Çağatay Yiğit](https://github.com/cagatayyigit) (SWE & Software Tester)<br>
-<img src="https://avatars.githubusercontent.com/u/45719739?s=400&u=3c1b2aee90357fe687ef525a73217aec2db94dc7&v=4" width="200">
-
-
-
-
+| <center> <img src="https://avatars.githubusercontent.com/u/16795283?s=400&u=4dbb99bbe652bc560fe113d400118373cc27980a&v=4" width="100"/></center> | <img src="https://avatars.githubusercontent.com/u/29679552?s=400&u=842d738be93cf0f725bd0b27d4dc4687930e41b4&v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/26020675?s=400&u=21d660029292a2e2fb653a40e142b646670038a1&v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/44788355?s=400&u=3c8a1a0c10768db805f85957365d4e1ed6aa01cd&v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/45719739?s=400&u=3c1b2aee90357fe687ef525a73217aec2db94dc7&v=4" width="100"/> |
+| --- | --- | --- | -- | -- |
+| <center>[M. Şamil Ateşoğlu](https://github.com/shamilatesoglu) </center> | <center>[Mert Can Demir](https://github.com/validatedev)</center> | <center>[Yusuf Keten](https://github.com/yusufketen) </center> | <center>[Selim Şeker](https://github.com/selimseker) </center> |  <center>[Çağatay Yiğit](https://github.com/cagatayyigit) </center> |
+| <center>**SWE & Project Manager** </center> | <center>**SWE & Software Architect** </center> | <center>**SWE & Software Analyst** </center> | <center>**SWE & Software Configuration Manager** </center> | <center>**SWE & Software Tester** </center>  |
