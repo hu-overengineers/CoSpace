@@ -18,11 +18,24 @@ And remember, the internet is your friend, consult internet whenever you stuck, 
 
 ## Authors
  
--  [M. Şamil Ateşoğlu](https://github.com/shamilatesoglu)
--  [Mert Can Demir](https://github.com/validatedev)
--  [Yusuf Keten](https://github.com/yusufketen)
--  [Selim Şeker](https://github.com/selimseker)
--  [Çağatay Yiğit](https://github.com/cagatayyigit)
+-  [M. Şamil Ateşoğlu](https://github.com/shamilatesoglu) (SWE & Project Manager)<br>
+<img src="https://avatars.githubusercontent.com/u/16795283?s=400&u=4dbb99bbe652bc560fe113d400118373cc27980a&v=4" width="200">
+
+
+-  [Mert Can Demir](https://github.com/validatedev) (SWE & Software Architect)<br>
+<img src="https://avatars.githubusercontent.com/u/29679552?s=400&u=842d738be93cf0f725bd0b27d4dc4687930e41b4&v=4" width="200">
+
+
+-  [Yusuf Keten](https://github.com/yusufketen) (SWE & Software Analyst)<br>
+<img src="https://avatars.githubusercontent.com/u/26020675?s=400&u=21d660029292a2e2fb653a40e142b646670038a1&v=4" width="200">
+
+
+-  [Selim Şeker](https://github.com/selimseker) (SWE & Software Configuration Manager)<br>
+<img src="https://avatars.githubusercontent.com/u/44788355?s=400&u=3c8a1a0c10768db805f85957365d4e1ed6aa01cd&v=4" width="200">
+
+
+-  [Çağatay Yiğit](https://github.com/cagatayyigit) (SWE & Software Tester)<br>
+<img src="https://avatars.githubusercontent.com/u/45719739?s=400&u=3c1b2aee90357fe687ef525a73217aec2db94dc7&v=4" width="200">
 
 
 
