@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/hu-overengineers/CoSpace-frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/hu-overengineers/CoSpace-backend.git
