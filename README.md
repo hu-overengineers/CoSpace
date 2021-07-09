@@ -1,7 +1,6 @@
 # CoSpace
 
 
-
 ## Contributing
 
 When starting to work on an issue, you need to create a branch from the `main` branch with the convention:
